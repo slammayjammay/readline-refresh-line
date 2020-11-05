@@ -1,0 +1,10 @@
+{
+  "name": "readline-refresh-line",
+  "version": "1.0.0",
+  "description": "Patch to Node's readline Interface#_refreshLine",
+  "main": "hijack.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
